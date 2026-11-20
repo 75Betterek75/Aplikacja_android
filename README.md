@@ -1,2 +1,2 @@
-# WaleWiadroNaPalarni
-koty
+# Aplikacja_Android
+1 aplikacja 
